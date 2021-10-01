@@ -1,0 +1,13 @@
+flask
+lime
+argparse
+pathlib
+typing
+numpy
+sklearn
+scipy
+spacy
+tqdm
+pandas
+cython
+textblob
